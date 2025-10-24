@@ -1,0 +1,24 @@
+{
+  "name": "backend_first",
+  "version": "1.0.0",
+  "description": "at backend chai or code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aatmik23/backend_first.git"
+  },
+  "keywords": [
+    "javascipt",
+    "chai",
+    "backend"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aatmik23/backend_first/issues"
+  },
+  "homepage": "https://github.com/aatmik23/backend_first#readme"
+}
