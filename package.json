@@ -2,9 +2,10 @@
   "name": "backend_first",
   "version": "1.0.0",
   "description": "at backend chai or code",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/aatmik23/backend_first/issues"
   },
-  "homepage": "https://github.com/aatmik23/backend_first#readme"
+  "homepage": "https://github.com/aatmik23/backend_first#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
+  }
 }
